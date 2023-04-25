@@ -1,0 +1,15 @@
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/bin/Debug/net7.0/QuanlySanpham
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/bin/Debug/net7.0/QuanlySanpham.deps.json
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/bin/Debug/net7.0/QuanlySanpham.runtimeconfig.json
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/bin/Debug/net7.0/QuanlySanpham.dll
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/bin/Debug/net7.0/QuanlySanpham.pdb
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/QuanlySanpham.csproj.AssemblyReference.cache
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/QuanlySanpham.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/QuanlySanpham.AssemblyInfoInputs.cache
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/QuanlySanpham.AssemblyInfo.cs
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/QuanlySanpham.csproj.CoreCompileInputs.cache
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/QuanlySanpham.dll
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/refint/QuanlySanpham.dll
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/QuanlySanpham.pdb
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/QuanlySanpham.genruntimeconfig.cache
+/Users/Giang8692/Projects/QuanlySanpham/QuanlySanpham/obj/Debug/net7.0/ref/QuanlySanpham.dll
